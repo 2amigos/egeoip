@@ -1,7 +1,7 @@
 {
 	"name": "2amigos/egeoip",
 	"description": "This extension allows you to easily integrate the geoPlugin webservice into your Yii applications.",
-	"keywords": ["bootstrap"],
+	"keywords": ["yii", "extension", "geo", "geoPlugin"],
 	"type": "yii-extension",
 	"license": "BSD-3-Clause",
 	"authors": [
