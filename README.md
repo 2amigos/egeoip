@@ -48,3 +48,7 @@ Please make use of the forum post to report errors, requests, and suggestions. L
  * [Project page](http://www.ramirezcobos.com/)
  * [geoPlugin Webservice](http://www.geoplugin.com/)
  * [Forum Post](http://www.yiiframework.com/forum/index.php?/topic/16495-extension-egeoip-extension/)
+
+> [![2amigOS!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.2amigos.us)    
+<i>web development has never been so fun</i>  
+[www.2amigos.us](http://www.2amigos.us) - under construction -
